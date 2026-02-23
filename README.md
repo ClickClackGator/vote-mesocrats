@@ -1,2 +1,1 @@
-# vote-mesocrats
-Digital Voting Platform for The Mesocratic Party
+Digital Voting Platform for The Mesocratic Party — vote.mesocrats.org
